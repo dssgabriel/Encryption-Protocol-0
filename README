@@ -1,0 +1,10 @@
+Hi,
+
+You are to decode the text by cryptanalyzing the EP0 algorithm.
+You are provided a code (ep0.c) implementing the algorithm along
+with an encrypted text (2.txt). The algorithm is symmetric, which means the
+same key is used to encrypt and decrypt the text.
+The award is quite substancial and is clearly mentionned in the 
+encrypted text.
+
+Have fun, Jäsper   
