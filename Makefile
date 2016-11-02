@@ -4,6 +4,3 @@ ep :
 
 enc :
 	./ep0 -e HeliosUZ 1.txt 2.txt
-
-dec :
-	./ep0 -d HeliosUZ 2.txt 3.txt
