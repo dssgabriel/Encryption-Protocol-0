@@ -1,7 +1,6 @@
 /*
   Ecryption Protocol Level 0
   This code is under GPL ...
-  Intel & UVSQ - 2016
   
   AJE
 */
